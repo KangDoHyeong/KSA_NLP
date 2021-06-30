@@ -14,8 +14,8 @@ https://github.com/Kyubyong/wordvectors
 ### Linux Command
 
 
-sudo apt update
-sudo apt install python3-pip
-pip3 install --upgrade --force-reinstall --no-cache-dir jupyter
-sudo pip3 uninstall notebook
+sudo apt update<br>
+sudo apt install python3-pip<br>
+pip3 install --upgrade --force-reinstall --no-cache-dir jupyter<br>
+sudo pip3 uninstall notebook<br>
 sudo pip3 install --upgrade notebook 
