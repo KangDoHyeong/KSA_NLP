@@ -3,7 +3,7 @@
 
 
 ## Link
-https://github.com/KangDoHyeong/KSA_NLP/blob/main/README.md<br><br>
+https://github.com/KangDoHyeong/KSA_NLP<br><br>
 
 ### Word2Vec 실습 자료 Code
 https://colab.research.google.com/drive/1KXlqL_btsWlA9mDyyk5ghcy3V10Z35DA?usp=sharing
