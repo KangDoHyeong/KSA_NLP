@@ -8,3 +8,14 @@ https://colab.research.google.com/drive/1GptB5B1_tPYj4JERQp-pSJ6NMg60ml0k?usp=sh
 
 ### Word2Vec 실습자료 pretrained wordvec
 https://github.com/Kyubyong/wordvectors
+
+
+
+### Linux Command
+
+
+sudo apt update
+sudo apt install python3-pip
+pip3 install --upgrade --force-reinstall --no-cache-dir jupyter
+sudo pip3 uninstall notebook
+sudo pip3 install --upgrade notebook 
