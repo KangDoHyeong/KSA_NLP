@@ -30,3 +30,7 @@ Host KSA_NLP<br>
     Hostname 18.191.99.233<br>
     User ubuntu<br>
     IdentityFile C:\Users\fire7\Downloads\0630.pem<br>
+
+ipython<br>
+from notebook.auth import passwd<br>
+passwd()<br>
