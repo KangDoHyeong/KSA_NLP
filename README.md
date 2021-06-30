@@ -24,3 +24,9 @@ juypter notebook <b>[Errno 2] No such file or directory</b> error fix<br>
 pip3 install --upgrade --force-reinstall --no-cache-dir jupyter<br>
 sudo pip3 uninstall notebook<br>
 sudo pip3 install --upgrade notebook 
+
+
+Host KSA_NLP<br>
+    Hostname 18.191.99.233<br>
+    User ubuntu<br>
+    IdentityFile C:\Users\fire7\Downloads\0630.pem<br>
