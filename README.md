@@ -19,6 +19,8 @@ https://github.com/Kyubyong/wordvectors
 
 sudo apt update<br>
 sudo apt install python3-pip<br>
+<br>
+juypter notebook <h1>[Errno 2] No such file or directory</h1> error fix<br>
 pip3 install --upgrade --force-reinstall --no-cache-dir jupyter<br>
 sudo pip3 uninstall notebook<br>
 sudo pip3 install --upgrade notebook 
