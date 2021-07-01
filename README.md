@@ -37,3 +37,8 @@ passwd()<br><br>
 
 c = get_config()
 
+
+### Pororo Practice
+
+https://colab.research.google.com/drive/19c94q4lw-W8VFwDZVFqWIPNuzf3gKj8G?usp=sharing
+
